@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and discovering
 - 🌱 I’m currently learning coding in C++
 - 💞️ I’m looking to collaborate on internships and partenerships
-- 📫 How to reach me: via e-mail: craciun_razvan666@yahoo.com
+- 📫 How to reach me: via e-mail craciun_razvan666@yahoo.com
     
 
 <!---
